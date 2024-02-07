@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "user": {
+      "name": "Indah Pra Karya",
+      "username": "indahpra"
+    },
+    "content": "Kalian pernah ga sih bet on saving Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id cupiditate vel, numquam sit recusandae voluptates accusantium ratione voluptatum, veniam officiis    omnis asperiores iste velit provident ad expedita quis? Fugiat, exercitationem. You can try it now went bellow in the thread",
+    "image": "https://bit.ly/dan-abramov",
+    "likes": 16,
+    "replies": 381,
+    "isLiked": false
+  },
+  {
+    "id": 2,
+    "user": {
+      "name": "Jaka Ahmad",
+      "username": "jakm"
+    },
+    "content": "Jika hari ini hari sabtu maka hari ini hari sabtu",
+    "image": "https://bit.ly/dan-abramov",
+    "likes": -10,
+    "replies": 2,
+    "isLiked": true
+  },
+  {
+    "id": 3,
+    "user": {
+      "name": "Soebardjo",
+      "username": "sojo"
+    },
+    "content": "es iste velit provident ad expedita quis? Fugiat",
+    "image": "https://bit.ly/dan-abramov",
+    "likes": 2,
+    "replies": 0,
+    "isLiked": true
+  }
+]
